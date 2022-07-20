@@ -3,6 +3,9 @@ body{
     margin: auto;
     font-family: 'Poppins', sans-serif;
 }
+.first-part{
+    padding: 50px;
+}
 h1{
     font-size: 50px;
     color: white;
